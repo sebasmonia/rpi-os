@@ -1,0 +1,8 @@
+https://jsandler18.github.io/explanations/boot_S.html
+
+Clearly I need to go over the assembly instructions. Might be worth it, might not be.
+
+0x8000 ==> 326768 
+
+0x3F200000 ==> 1:  66191360
+
